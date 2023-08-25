@@ -1,0 +1,13 @@
+Laptop Name,Price
+Acer Swift 3,699.99
+Dell XPS 13,1099.99
+HP Spectre x360,1299.99
+Lenovo ThinkPad X1 Carbon,1399.99
+Microsoft Surface Laptop 4,1199.99
+Asus ROG Zephyrus G14,1499.99
+LG Gram 17,1599.99
+Apple MacBook Pro,1699.99
+MSI GS66 Stealth,1799.99
+Razer Blade 15,2099.99
+
+Total Price: $15599.90
